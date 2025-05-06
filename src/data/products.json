@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "name": "Black Tshirt",
+      "image": "black_tshirt.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Red Tshirt",
+      "image": "red_tshirt.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Yellow Tshirt",
+      "image": "yellow_tshirt.jpg"
+    }
+  ]
+  
